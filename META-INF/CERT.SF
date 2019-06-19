@@ -1,0 +1,25 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: 5MHdPhBkFdOAGuvcwbQjUaznSK4=
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: module.prop
+SHA1-Digest-Manifest: MpijdtRaLLuGb+iS9xAxo4F7Wz8=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: EGXT4HXGBJlOomYxiGXzoEMbMrY=
+
+Name: system/etc/gps.conf
+SHA1-Digest-Manifest: LUyO5mDBCRoO3eZuxnTCkIte7zk=
+
+Name: config.sh
+SHA1-Digest-Manifest: 0SmOf6aD0E42jP5faVhaT9Nf/j0=
+
+Name: system/vendor/etc/gps.conf
+SHA1-Digest-Manifest: bllAOiy20veizgOUBsvOBM1EEMU=
+
+Name: README.md
+SHA1-Digest-Manifest: woYnstnUvw26ZpWNUPlrRTIpSAY=
+
